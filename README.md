@@ -1,1 +1,1 @@
-Hello, Haxlet!
+No code No pain
